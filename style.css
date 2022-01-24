@@ -1,0 +1,43 @@
+body{
+  background-color: gray;
+}
+.title{
+  text-align:center;
+  color: Blue;
+  text-decoration: underline;
+}
+.box {
+  display: flex;
+  text-align: center;
+  justify-content: space-evenly;
+}
+.box1{
+  align-items: center;
+  background-color: red;
+  padding: 20px;
+  border-radius: 10px;
+}
+.box2{
+  margin-top: -10px;
+  background-color: red;
+  padding: 20px;
+  border-radius: 10px;
+}
+.btnEncriptado{
+  margin-top: 10px;
+}
+.recargar{
+  text-align:center;
+  margin-top: 50px;
+  
+}
+.text{
+  margin-top: -5px;
+}
+#recargar{
+  height: 50px;
+  width: 100px;
+  background-color: blue;
+  border-radius: 10px;
+}
+
